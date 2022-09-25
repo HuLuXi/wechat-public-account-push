@@ -240,6 +240,7 @@ const USER_CONFIG = {
       festivals: [],
       customizedDateList: [],
       courseSchedule: {
+        courses: {
             [],
             [
               '08:00-09:40 天然药物化学 (2#五)',
