@@ -31,7 +31,7 @@ const USER_CONFIG = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI', //8.41，此为测试用
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'UMc3eIKx8zjYlhvr_FIbnWPWaA1EZylpNUoxn3VzBpE',
+      useTemplateId: 'b33K6tgNd04MlBeKVYHDVb6zmq_6TqWabukmXneQMjA',
       // 所在省份
       province: '河南',
       // 所在城市
@@ -208,7 +208,7 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'h2NN9gGAwF5EHVOTJt6q6vEkns6pO8LCL8TqkasnDd4',
+  CALLBACK_TEMPLATE_ID: '	usf3hdbtJmX1rRT9FRN7pGbNozGaYA7qHDgZxkUMIV0',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
