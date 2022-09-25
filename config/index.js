@@ -239,7 +239,15 @@ const USER_CONFIG = {
       openUrl: 'https://wangxinleo.cn',
       festivals: [],
       customizedDateList: [],
-      courseSchedule:
+      courseSchedule:[
+            [],
+            ['08:00-09:40 药化（2#五）'],
+            [],
+            ['10:10-11:50 药化（2#五）'],
+            [],
+            [],
+            []
+          ]
     },
     {
       name: '老婆3',
