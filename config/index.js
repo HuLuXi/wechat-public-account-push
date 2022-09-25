@@ -29,7 +29,7 @@ const USER_CONFIG = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: true,
     // 土味情话(彩虹屁)
@@ -89,10 +89,10 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-07-24' },
-        // 结婚纪念日
-        //{ keyword: 'marry_day', date: '2022-09-09' },
-        // 退伍日
-        //{ keyword: 'ex_day', date: '2022-09-10' }
+        // 考研
+        //{ keyword: 'exam_day', date: '2022-12-24' },
+        // 到期日
+        //{ keyword: 'ex_day', date: '2022-12-30' }
       ],
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
