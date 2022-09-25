@@ -160,6 +160,7 @@ const USER_CONFIG = {
         }
       },
     },
+    /*暂不使用
     {
       name: '老婆课表',
       id: 'ogKOR6m6SypDFzisPVYIxNrLwENA',
@@ -228,6 +229,7 @@ const USER_CONFIG = {
         }
       },
     },
+    */
     {
       name: '自己课表',
       id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI',
