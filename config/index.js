@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI', //8.41，此为测试用
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'YSMLJI-At_RiOY51EjfXWNwyHefcAvbIY9nqzEThH6s',
+      useTemplateId: 'VEarziTRh_0GEew3oS76OnXA0mUXRfRuxZzwaxkGVzE',
       // 所在省份
       province: '河南',
       // 所在城市
@@ -90,7 +90,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-07-24' },
         // 考研
-        //{ keyword: 'exam_day', date: '2022-12-24' },
+        { keyword: 'exam_day', date: '2022-12-24' },
         // 到期日
         //{ keyword: 'ex_day', date: '2022-12-30' }
       ],
