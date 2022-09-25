@@ -239,7 +239,7 @@ const USER_CONFIG = {
       openUrl: 'https://wangxinleo.cn',
       festivals: [],
       customizedDateList: [],
-      courseSchedule: {
+      courseSchedule: 
             [];
             [
               '08:00-09:40 天然药物化学 (2#五)'
@@ -251,7 +251,6 @@ const USER_CONFIG = {
             [];
             [];
             []
-      },
     },
     {
       name: '老婆3',
