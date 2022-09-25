@@ -65,7 +65,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '我的静',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI', 'ogKOR6m6SypDFzisPVYIxNrLwENA',
+      id: 'ogKOR6m6SypDFzisPVYIxNrLwENA',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'lXYPYmqYediRVP3DS-8zssReIOOXDO6Bx9Z8K5qvhEQ',
       // 所在省份
@@ -252,16 +252,22 @@ const USER_CONFIG = {
           ]
     },
     {
-      name: '老婆3',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
+      name: '我静c',
+      id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI',
+      useTemplateId: 'lXYPYmqYediRVP3DS-8zssReIOOXDO6Bx9Z8K5qvhEQ',
+      province: '河南',
+      city: '信阳',
+      horoscopeDate: '04-04',
+      horoscopeDateType: '今日',
+      openUrl: 'https://s.weibo.com/top/summary',
+      festivals: [
+      {
+          type: '*生日', name: '我静', year: '2001', date: '03-11',
+        },
+      ],
+      customizedDateList: [
+        { keyword: 'exam_day', date: '2022-12-28' },
+      ],
       courseSchedule: null
     }
     // 你可以不断按格式往下增加
