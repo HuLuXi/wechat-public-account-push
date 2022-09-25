@@ -65,7 +65,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '我的静',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI', 'ogKOR6m6SypDFzisPVYIxNrLwENA'
+      id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI', 'ogKOR6m6SypDFzisPVYIxNrLwENA',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'lXYPYmqYediRVP3DS-8zssReIOOXDO6Bx9Z8K5qvhEQ',
       // 所在省份
@@ -238,7 +238,7 @@ const USER_CONFIG = {
       city: '郑州',
       horoscopeDate: '12-16',
       horoscopeDateType: '今日',
-      openUrl: 'https://wangxinleo.cn',
+      openUrl: 'https://s.weibo.com/top/summary',
       festivals: [],
       customizedDateList: [],
       courseSchedule:[
