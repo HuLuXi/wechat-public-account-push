@@ -236,7 +236,7 @@ const USER_CONFIG = {
     {
       name: '自己课表',
       id: 'ogKOR6j965HSAjzxxBRmCe6ASZKI',
-      useTemplateId: 'uut7BkkegxfTpINIMsFJx-HegYVRfJPcD6gdDDTSzh4',
+      useTemplateId: 'MrCO041Ce-j-1PYFfConR25UQGZkx27fwGtWI6LAYFo',
       province: '河南',
       city: '郑州',
       horoscopeDate: '2000.12.16',
