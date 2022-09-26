@@ -267,6 +267,7 @@ const USER_CONFIG = {
       ],
       customizedDateList: [
         { keyword: 'exam_day', date: '2022-12-28' },
+        { keyword: 'love_day', date: '2022-07-24' },
       ],
       courseSchedule: null
     }
